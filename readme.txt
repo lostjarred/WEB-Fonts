@@ -6,4 +6,5 @@ Unnamed DOS Font IV by Pentacom - https://www.pentacom.jp/pentacom/bitfontmaker2
 Operation Napalm Font - https://www.fontspace.com/operation-napalm-font-f101917
 Hexcore Font - https://www.fontspace.com/hexcore-font-f94621
 Novem Font - https://www.fontspace.com/novem-font-f81808
+TeleSys - https://fontesk.com/telesys-font/
 font converter - https://transfonter.org/
