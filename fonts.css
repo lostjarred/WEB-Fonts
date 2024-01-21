@@ -10,12 +10,7 @@
 
 @font-face {
     font-family: 'Operation Napalm';
-    src: url('fonts/operationnapalm/OperationNapalm-Regular.woff2') format('woff2'),
-        url('fonts/operationnapalm/OperationNapalm-Regular.woff') format('woff'),
-        url('fonts/operationnapalm/OperationNapalm-Regular.svg#OperationNapalm-Regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+    src: url('fonts/operationnapalm/OperationNapalm-nRBWO.ttf') format('woff2');
 }
 
 @font-face {
