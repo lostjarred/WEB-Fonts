@@ -70,3 +70,7 @@
     font-family: 'Fewture';
     src: url('fonts/fewture/Fewture.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'LCDBlock';
+    src: url('fonts/lcdblock/LCDBlock.ttf') format('truetype');
+}
