@@ -62,3 +62,7 @@
     font-family: 'PixelMordred';
     src: url('fonts/pixelmordred/PixelMordred.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'Ikaruga';
+    src: url('fonts/ikaruga/Ikaruga.ttf') format('truetype');
+}
