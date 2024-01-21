@@ -45,3 +45,15 @@ h2 {
 h3 {
     color: #FFB000;
 }
+a:link {
+    color: #FFCC00;
+}
+a:visited {
+    color: #ffcc0085;
+}
+a:hover {
+    color: #fbff00;
+}
+a:active {
+    color: #fbff00;
+}
