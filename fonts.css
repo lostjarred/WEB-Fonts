@@ -54,3 +54,7 @@
     font-family: 'MeleeSans';
     src: url('fonts/meleesans/MeleeSans.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'koubit_001';
+    src: url('fonts/koubit001/koubit_001.ttf') format('truetype');
+}
