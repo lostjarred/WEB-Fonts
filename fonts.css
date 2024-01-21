@@ -50,3 +50,7 @@
     font-family: 'E1234';
     src: url('fonts/e1234/E1234.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'MeleeSans';
+    src: url('fonts/meleesans/MeleeSans.ttf') format('truetype');
+}
