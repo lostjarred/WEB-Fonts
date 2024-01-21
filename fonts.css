@@ -4,12 +4,8 @@
 }
 @font-face {
     font-family: 'Operation Napalm';
-    src: url('fonts/operationnapalm/OperationNapalm-Italic.woff2') format('woff2'),
-        url('fonts/operationnapalm/OperationNapalm-Italic.woff') format('woff'),
-        url('fonts/operationnapalm/OperationNapalm-Italic.svg#OperationNapalm-Italic') format('svg');
-    font-weight: normal;
+    src: url('fonts/operationnapalm/OperationNapalmItalic-1GgAv.ttf') format('truetype');
     font-style: italic;
-    font-display: swap;
 }
 
 @font-face {
