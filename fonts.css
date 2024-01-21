@@ -66,3 +66,7 @@
     font-family: 'Ikaruga';
     src: url('fonts/ikaruga/Ikaruga.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'Fewture';
+    src: url('fonts/fewture/Fewture.ttf') format('truetype');
+}
