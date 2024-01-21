@@ -1,0 +1,47 @@
+#container{
+    border: 2px;
+    border-color: #FFCC00;
+    border-style: dashed;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgba(204, 139, 0, 0.5);
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+}
+.border {
+    border-bottom: 2px;
+    border-color: #FFCC00;
+    border-bottom-style: dashed;
+}
+.border:last-child {
+    border-bottom: 0px;
+}
+.content {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+html {
+    height: 99%;
+}
+body {
+    height: 99%;
+    background-color: #282828;
+}
+p {
+    color: #FFCC00;
+}
+h1 {
+    color: #FFB000;
+}
+h2 {
+    color: #FFB000;
+}
+h3 {
+    color: #FFB000;
+}
