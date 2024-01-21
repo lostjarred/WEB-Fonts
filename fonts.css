@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'UnnamedDOSFontIV';
+    src: url('fonts/unnameddosfontiv/UnnamedDOSFontIV.woff2') format('woff2'),
+        url('fonts/unnameddosfontiv/UnnamedDOSFontIV.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Operation Napalm';
+    src: url('fonts/operationnapalm/OperationNapalm-Italic.woff2') format('woff2'),
+        url('fonts/operationnapalm/OperationNapalm-Italic.woff') format('woff'),
+        url('fonts/operationnapalm/OperationNapalm-Italic.svg#OperationNapalm-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Operation Napalm';
+    src: url('fonts/operationnapalm/OperationNapalm-Regular.woff2') format('woff2'),
+        url('fonts/operationnapalm/OperationNapalm-Regular.woff') format('woff'),
+        url('fonts/operationnapalm/OperationNapalm-Regular.svg#OperationNapalm-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hexcore';
+    src: url('fonts/hexcore/Hexcore.woff2') format('woff2'),
+        url('fonts/hexcore/Hexcore.woff') format('woff'),
+        url('fonts/hexcore/Hexcore.svg#Hexcore') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Novem';
+    src: url('fonts/novem/Novem.woff2') format('woff2'),
+        url('fonts/novem/Novem.woff') format('woff'),
+        url('fonts/novem/Novem.svg#Novem') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TeleSys';
+    src: url('fonts/telesys/TeleSys.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DigitTech7';
+    src: url('fonts/digittech/DigitTech7-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DigitTech9';
+    src: url('fonts/digittech/DigitTech9-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DigitTech14';
+    src: url('fonts/digittech/DigitTech14-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'DigitTech16';
+    src: url('fonts/digittech/DigitTech16-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'E1234';
+    src: url('fonts/e1234/E1234.ttf') format('truetype');
+}
