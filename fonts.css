@@ -58,3 +58,7 @@
     font-family: 'koubit_001';
     src: url('fonts/koubit001/koubit_001.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'PixelMordred';
+    src: url('fonts/pixelmordred/PixelMordred.ttf') format('truetype');
+}
