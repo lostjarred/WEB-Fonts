@@ -10,12 +10,12 @@
 
 @font-face {
     font-family: 'Operation Napalm';
-    src: url('fonts/operationnapalm/OperationNapalm-nRBWO.ttf') format('woff2');
+    src: url('fonts/operationnapalm/OperationNapalm-nRBWO.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Hexcore';
-    src: url('fonts/hexcore/Hexcore-w1p4Z.ttf') format('woff2');
+    src: url('fonts/hexcore/Hexcore-w1p4Z.ttf') format('truetype');
 }
 
 @font-face {
