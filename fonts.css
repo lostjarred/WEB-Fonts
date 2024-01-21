@@ -20,12 +20,7 @@
 
 @font-face {
     font-family: 'Novem';
-    src: url('fonts/novem/Novem.woff2') format('woff2'),
-        url('fonts/novem/Novem.woff') format('woff'),
-        url('fonts/novem/Novem.svg#Novem') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+    src: url('fonts/novem/Novem-gx193.ttf') format('truetype');
 }
 
 @font-face {
