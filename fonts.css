@@ -74,3 +74,7 @@
     font-family: 'LCDBlock';
     src: url('fonts/lcdblock/LCDBlock.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'Lunarpix';
+    src: url('fonts/Lunarpix/Lunarpix.ttf') format('truetype');
+}
