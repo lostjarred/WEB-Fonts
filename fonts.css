@@ -78,3 +78,7 @@
     font-family: 'Lunarpix';
     src: url('fonts/Lunarpix/Lunarpix.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'GlassTTYVT220';
+    src: url('fonts/glassttyvt220/Glass_TTY_VT220.ttf') format('truetype');
+}
