@@ -86,3 +86,7 @@
     font-family: 'Good Old DOS';
     src: url('fonts/goodolddos/Good\ Old\ DOS.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'Failed Attempt';
+    src: url('fonts/failedattempt/Failed\ Attempt.otf') format('opentype');
+}
