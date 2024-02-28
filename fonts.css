@@ -82,3 +82,7 @@
     font-family: 'GlassTTYVT220';
     src: url('fonts/glassttyvt220/Glass_TTY_VT220.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'Good Old DOS';
+    src: url('fonts/goodolddos/Good\ Old\ DOS.ttf') format('truetype');
+}
