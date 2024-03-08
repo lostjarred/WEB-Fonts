@@ -34,17 +34,8 @@ body {
     height: 99%;
     background-color: #282828;
 }
-p {
+p, h1, h2, h3  {
     color: #FFCC00;
-}
-h1 {
-    color: #FFB000;
-}
-h2 {
-    color: #FFB000;
-}
-h3 {
-    color: #FFB000;
 }
 a:link {
     color: #FFCC00;
@@ -52,9 +43,6 @@ a:link {
 a:visited {
     color: #ffcc0085;
 }
-a:hover {
-    color: #fbff00;
-}
-a:active {
+a:hover, a:active  {
     color: #fbff00;
 }
