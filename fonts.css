@@ -87,6 +87,22 @@
     src: url('fonts/goodolddos/Good\ Old\ DOS.ttf') format('truetype');
 }
 @font-face {
+    font-family: 'Good Old DOS Outline';
+    src: url('fonts/goodolddos/Good\ Old\ DOS\ Outline.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Good Old DOS 3D';
+    src: url('fonts/goodolddos/Good\ Old\ DOS\ 3D.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Good Old DOS Smooth';
+    src: url('fonts/goodolddos/Good\ Old\ DOS\ Smooth.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Good Old DOS Distorted';
+    src: url('fonts/goodolddos/Good\ Old\ DOS\ Distorted.ttf') format('truetype');
+}
+@font-face {
     font-family: 'Failed Attempt';
     src: url('fonts/failedattempt/Failed\ Attempt.otf') format('opentype');
 }
