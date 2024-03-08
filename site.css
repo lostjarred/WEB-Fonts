@@ -2,6 +2,8 @@
     border: 2px;
     border-color: #FFCC00;
     border-style: dashed;
+    border-left: #FFCC00 solid;
+    border-right: #FFCC00 solid;
     margin-left: 10%;
     margin-right: 10%;
     background-color: rgba(204, 139, 0, 0.5);
