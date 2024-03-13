@@ -34,10 +34,12 @@ a:hover, a:active  {
 .border:last-child {
     border-bottom: 0px;
 }
+/* TODO change for desktop mobile responsive 
 .content {
     margin-left: 0.5%;
     margin-right: 0.5%;
 }
+*/
 #container{
     border: 2px;
     border-color: #FFCC00;
